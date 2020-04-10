@@ -1,0 +1,6 @@
+com\kgisl\springboottask\projectcrud\repository\UserRepository.class
+com\kgisl\springboottask\projectcrud\service\UserService.class
+com\kgisl\springboottask\projectcrud\ProjectcrudApplication.class
+com\kgisl\springboottask\projectcrud\service\UserServiceImpl.class
+com\kgisl\springboottask\projectcrud\controller\UserController.class
+com\kgisl\springboottask\projectcrud\entity\User.class

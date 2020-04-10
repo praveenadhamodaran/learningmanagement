@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.kgisl.springboottask.projectcrud.ProjectcrudApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 107.65 s - in com.kgisl.springboottask.projectcrud.ProjectcrudApplicationTests
